@@ -1,5 +1,5 @@
 package Desafio03;
 
 public class Main {
-    vai se fuder
+    vai se fude
 }
